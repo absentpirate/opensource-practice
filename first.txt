@@ -3,3 +3,4 @@ This is the second line here.
 
 
 This is a new line here.
+This is something new.
